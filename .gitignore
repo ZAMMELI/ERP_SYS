@@ -1,0 +1,9 @@
+# Fichiers à ignorer
+node_modules/
+dist/
+target/
+*.log
+.env
+.DS_Store
+*.swp
+*.swo
